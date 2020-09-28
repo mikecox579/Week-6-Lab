@@ -36,3 +36,5 @@ Please look at the Code of Conduct for more information on contributing to this 
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) license. More informatin can be found at the link or in the LICENSE.md file.
 
 ## Miscellany
+
+The reason the MIT license was choosen is because I recognized this license through working with many apis that used this license. Also, permissions, conditions, and limitations match up with what I would actually want if I was creating a real open-source project (specifically the limitation in liability). The reason the Contributor Covenant Code of Conduct was choosen is because of it's wide use by major companies, including Google, Mozilla, and Linux. Also, the conduct's coverage in setting standards, resposibilities, and enforcement with additional links to resources with more information.
