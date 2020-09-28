@@ -33,6 +33,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please look at the Code of Conduct for more information on contributing to this project.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project uses the [MIT](https://choosealicense.com/licenses/mit/) license. More informatin can be found at the link or in the LICENSE.md file.
 
 ## Miscellany
