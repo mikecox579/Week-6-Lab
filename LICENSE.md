@@ -1,12 +1,3 @@
-Permissions	Conditions	Limitations
- Commercial use
- Distribution
- Modification
- Private use
- License and copyright notice
- Liability
- Warranty
-
 MIT License
 
 Copyright (c) 2020 Michael Cox
