@@ -34,3 +34,5 @@ Please look at the Code of Conduct for more information on contributing to this 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Miscellany
