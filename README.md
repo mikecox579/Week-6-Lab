@@ -28,9 +28,9 @@ Output:
 Hello Mike! You are 18 years old and you will turn 19 on March 13
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or reach out to an original contributor to implement your changes.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or reach out to an original contributor to implement your changes. Please make sure to update tests as needed.
 
-Please make sure to update tests as needed.
+Please look at the Code of Conduct for more information on contributing to this project.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
